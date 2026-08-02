@@ -1,0 +1,12 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://www.wenspiredata.com/compliance
+url: https://www.wenspiredata.com/compliance
+certifications:
+- GDPR
+evidence:
+- source: https://www.wenspiredata.com/compliance
+  keywords:
+  - trust center
+  - gdpr
